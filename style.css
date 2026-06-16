@@ -108,8 +108,8 @@ top: 30px;
 @media (min-width: 860px) {
   .menu-list{
     
-    display: flex;
-    width:100%;
+    display:visible;
+
     cursor: pointer;
     
   }
