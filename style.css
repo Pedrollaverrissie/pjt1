@@ -108,17 +108,15 @@ top: 30px;
 @media (min-width: 860px) {
   .menu-list{
     
-    display:visible;
-    background-color:red;
+    display:flex;
+   flex:1;
     cursor: pointer;
     
   }
 }
  
 .menu-tab{
- display: flex;
-  width:100%;
-    
+ display: flex;   
  z-index: 20;
  flex-direction: column;
  position: fixed;
@@ -156,7 +154,8 @@ top: 30px;
    cursor: pointer;
 }
 .menu-tab.active {
-    opacity: 1;
+    opacity: 1; 
+    background-color:red;
 }
  @media (min-width: 860px) {
     .menu-tab.active {
