@@ -174,7 +174,7 @@ top: 30px;
 
 .signup,.login{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight:bold;
+    font-weight:lighter;
     border: solid;
     border-width: 1.3px;
     border-color: rgba(26, 22, 22, 0.527);
@@ -218,7 +218,7 @@ top: 30px;
    justify-content: center;
    font-size:8px;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   font-weight: bold;
+   font-weight:lighter;
    border: 1px solid rgb(0, 255, 4);
     
   } 
