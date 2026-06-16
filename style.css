@@ -209,7 +209,7 @@ top: 30px;
     display:flex;
     flex: 0.5;
    justify-content: end;
-    
+    font-size:8px;
     cursor: pointer;
   }
 }
