@@ -122,8 +122,8 @@ top: 30px;
  position: fixed;
  background-color: rgb(249, 247, 247);
  top: 82px;
- left: 50px;
- right: 50px;
+ left: 0;
+ right: 0;
  bottom: 120px;
  font-family: Verdana, Geneva, Tahoma, sans-serif;
  font-size: 26px;
@@ -283,7 +283,7 @@ span{
 }
 
 .signup2 ,.login1 ,.signup3{
-    width: 18%;
+    width:90%;
     background-color: black;
     border-radius: 10px;
     height: 30px;
